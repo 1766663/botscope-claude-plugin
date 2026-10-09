@@ -1,0 +1,17 @@
+{
+  "name": "botscope",
+  "owner": {
+    "name": "Botscope",
+    "url": "https://botscope.io"
+  },
+  "metadata": {
+    "description": "The Botscope plugin for Claude: crawler catalogue lookups, robots.txt drafts and, with an account, bot traffic review for your own sites."
+  },
+  "plugins": [
+    {
+      "name": "botscope",
+      "source": "./",
+      "description": "Identify a crawler from the Botscope catalogue, see how it is verified, and draft a robots.txt policy. With a Botscope account, review which agents reached your site."
+    }
+  ]
+}

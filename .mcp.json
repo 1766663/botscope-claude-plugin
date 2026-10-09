@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "botscope": {
+      "type": "http",
+      "url": "https://mcp.botscope.io/mcp"
+    }
+  }
+}

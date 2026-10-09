@@ -1,0 +1,17 @@
+{
+  "name": "botscope",
+  "displayName": "Botscope",
+  "version": "1.2.1",
+  "description": "Identify a crawler from the Botscope catalogue, see how it is verified, and draft a robots.txt policy. With a Botscope account, review which agents reached your site.",
+  "author": {
+    "name": "Botscope",
+    "url": "https://botscope.io"
+  },
+  "license": "MIT",
+  "homepage": "https://botscope.io/claude",
+  "repository": "https://github.com/1766663/botscope-claude-plugin",
+  "icon": "./logo.svg",
+  "documentationUrl": "https://botscope.io/claude",
+  "supportUrl": "https://botscope.io/contact",
+  "privacyPolicyUrl": "https://botscope.io/privacy"
+}
